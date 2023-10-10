@@ -1,0 +1,204 @@
+---
+title: "Diabetic Ketoacidosis"
+author: "Miiro Emmanuel, MD"
+date: 11/10/2023
+format: 
+  revealjs:
+    theme: dark
+    slide-number: c/t
+editor: visual
+---
+
+## Case
+
+-   NJ, a 16y/F newly diagnosed DM presented with cough x 1/52, DIB and reduced consciousness x 3/7; referral from St. Joseph's hospital, Wakiso.
+
+::: {.incremental}
+-   No chronic medical illness
+-   O/E: dehydrated, moderate pallor, no oedema, ?oral thrush
+-   CNS: semiconscious, GCS 9/15 (E3,M4,V2). No FNDs, PEARL, soft neck
+-   others: normal
+:::
+
+## Labs
+
+::: {.incremental}
+-   Urinalysis: ketones 3+, protein 3+, glucose 3+
+-   WBC 21.35, Neut 18.36, Hb 12.1, PLT 88
+-   S. creatinine 351, S. urea 16.3, Na+ 150, K+ 3.7, HCO3 17.2
+-   LFTs not done on admission
+:::
+
+## Diagnosis
+
+::: {.incremental}
+-   DKA
+-   AKI (?due to dehydration)
+-   Sepsis (pneumonia focus?)
+:::
+
+## Initial treatment
+
+::: {.incremental}
+-   IV actrapid infusion at 6IU/hr, later increased to 8IU/hr, then 12IU/hr
+-   IV Ringers lactate 6L in 24 hours
+-   IV KCL 20mEq in 500mls of NS stat, 40mEq on day 3
+-   IV levofloxacin 500mg OD x 5/7
+-   PO fluconazole 200mg OD x 2/52
+:::
+
+## Repeat Labs
+
+::: {.incremental}
+-   CBC (5 days later): WBC 16.72, Neut 14.17, Hb 7.1, PLT 160
+-   RFTs (6 days later): S.cr 508, S.Ur 19.4, K+ 3.87, Na+ 146.3, Normal Mg++, Ca++ and PO3-
+:::
+
+## Transferred to Ward
+
+-   Endocrinology after 6 days on emergency
+-   First maintained at IV actrapid infusion at 6IU/hr
+-   Fixed on SC lantus (glargine) 15 IU OD, SC actrapid 5 IU PB, PL and PS.
+-   Maintenance IV fluids 500mls q8h
+
+## Challenges
+
+-   Long time to resolution of DKA
+-   Lack of frequent RFTs/electrolytes
+-   Labile sugars
+
+## Diabetic Ketoacidosis
+
+-   An acute metabolic emergency most frequently occurring in people with type 1 diabetes mellitus, but increasingly in those with type 2 as well[^1].
+-   Incidence: 0--56 per 1000 person years
+-   Prevalence: 0--128 per 1000 people [^2].
+-   Expensive: US \~\$17 500/admission[^3].
+
+[^1]: https://doi.org/10.1093/med/9780198870197.003.0265
+
+[^2]: 10.1136/bmjopen-2017-016587
+
+[^3]: 10.2337/dc09-9032
+
+## What is needed to make the diagnosis of DKA?
+
+::: {.columns}
+
+::: {.column width="50%"}
+
+::: {.fragment}
+### UK criteria[^4]:
+
+::: {.incremental}
+-   admission glucose of \>11.1 mmol/L (200 mg/dl) or known diabetic---irrespective of the admission glucose (the 'D')
+-   plasma β-hydroxybutyrate concentration be ≥3.0 mmol/L, or ketonuria (\>2+ on standard urine ketone sticks) (the 'K')
+-   plasma bicarbonate concentration be \<15.0 mmol/L and/or a venous pH of \<7.3 (the 'A')
+:::
+
+:::
+
+:::
+
+. . .
+
+::: {.column width="50%"}
+
+::: {.fragment}
+### USA criteria[^5]:
+
+::: {.incremental}
+-   a glucose concentration of \>13.9 mmol/L (250 mg/dl)
+-   ketones must be present (in urine or in the blood)
+-   metabolic acidosis must be present, with a pH of \<7.30 (measured on arterial or venous blood) and a serum bicarbonate of ≤18.0 mmol/L
+:::
+
+:::
+
+:::
+
+:::
+
+[^4]: 10.1111/j.1464-5491.2011.03246.x
+
+[^5]: 10.2337/dc09-9032
+
+## Precipitants of DKA?
+
+
+## Pathophysiology[^7]
+
+[^7]: image source: 2023 UpToDate, Inc. and/or its affiliates. All Rights Reserved.
+
+![](images/PathogenDKAandHHS.gif){.r-stretch}
+
+## Management
+
+### Typical deficits in DKA[^8]
+
+[^8]: Joint British Diabetes Societies for Inpatient Care. The management of diabetic ketoacidosis in adults. Mar 2023
+
+::: {.incremental}
+-   Water: 100 ml/kg
+-   Sodium: 7-10 mmol/kg
+-   Chloride: 3-5 mmol/kg
+-   Potassium: 3-5 mmol/kg
+:::
+
+## IV fluids[^9]
+
+[^9]: image source: BMJ Knowledge Centre
+
+![](images/IVFluidsalgorithm.png){.r-stretch}
+
+## Potassium algorithm[^10]
+
+[^10]: image source: BMJ Knowledge Centre
+
+![](images/PotassiumDKA.png){.r-stretch}
+
+## Insulin algorithm[^11]
+
+[^11]: Joint British Diabetes Societies for Inpatient Care. The management of diabetic ketoacidosis in adults. Mar 2023
+
+::: {.incremental}
+-   fixed rate intravenous insulin infusion (FRIII) at 0.1 units/per kilogram body
+-   50 IU soluble human insulin in 49.5 ml 0.9% sodium chloride solution (i.e. 1 unit /ml)
+-   if RBS \<14 mmol/L: add 10% dextrose infusion and consider reducing the rate of intravenous insulin infusion to 0.05 units/kg/hr to avoid the risk of developing hypoglycaemia and hypokalaemia
+:::
+
+## Basal insulin
+
+::: {.incremental}
+- In those already on long acting basal insulin, it should continue to be prescribed at
+their usual dose.
+-  In those newly diagnosed, then a long acting basal insulin should be
+commenced, at a dose of 0.25 units/Kg subcutaneously once daily
+:::
+
+## Treatment targets[^12]
+
+[^12]: Joint British Diabetes Societies for Inpatient Care. The management of diabetic ketoacidosis in adults. Mar 2023
+
+::: {.incremental}
+-   Reduction of the blood ketone concentration by 0.5 mmol/L/hour
+-   Increase the venous bicarbonate by 3.0 mmol/L/hour
+-   Reduce capillary blood glucose by 3.0 mmol/L/hour
+-   Maintain potassium between 4.0 and 5.5 mmol/L
+
+If not achieving targets: double FRIII?
+:::
+
+## Resolution of DKA[^13]
+
+[^13]: image source: BMJ Knowledge Centre
+
+![](images/DKAresolution.png)
+
+Why not urine ketones?
+
+## Finally
+
+-   Switch to subcutaneous insulin once DKA has resolved and the patient is eating and drinking
+-   Start subcutaneous insulin with a meal and continue the FRIII for 30 to 60 minutes after this.
+
+## QUESTIONS {background-color="blue"}
