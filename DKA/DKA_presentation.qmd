@@ -82,40 +82,20 @@ editor: visual
 
 ## What is needed to make the diagnosis of DKA?
 
-::: {.columns}
-
-::: {.column width="50%"}
-
-::: {.fragment}
-### UK criteria[^4]:
+## UK criteria[^4]:
 
 ::: {.incremental}
--   admission glucose of \>11.1 mmol/L (200 mg/dl) or known diabetic---irrespective of the admission glucose (the 'D')
--   plasma β-hydroxybutyrate concentration be ≥3.0 mmol/L, or ketonuria (\>2+ on standard urine ketone sticks) (the 'K')
--   plasma bicarbonate concentration be \<15.0 mmol/L and/or a venous pH of \<7.3 (the 'A')
+- admission glucose of \>11.1 mmol/L (200 mg/dl) or known diabetic---irrespective of the admission glucose (the 'D')
+- plasma β-hydroxybutyrate concentration be ≥3.0 mmol/L, or ketonuria (\>2+ on standard urine ketone sticks) (the 'K')
+- plasma bicarbonate concentration be \<15.0 mmol/L and/or a venous pH of \<7.3 (the 'A')
 :::
 
-:::
-
-:::
-
-. . .
-
-::: {.column width="50%"}
-
-::: {.fragment}
-### USA criteria[^5]:
+## USA criteria[^5]:
 
 ::: {.incremental}
--   a glucose concentration of \>13.9 mmol/L (250 mg/dl)
--   ketones must be present (in urine or in the blood)
--   metabolic acidosis must be present, with a pH of \<7.30 (measured on arterial or venous blood) and a serum bicarbonate of ≤18.0 mmol/L
-:::
-
-:::
-
-:::
-
+- a glucose concentration of \>13.9 mmol/L (250 mg/dl)
+- ketones must be present (in urine or in the blood)
+- metabolic acidosis must be present, with a pH of \<7.30 (measured on arterial or venous blood) and a serum bicarbonate of ≤18.0 mmol/L
 :::
 
 [^4]: 10.1111/j.1464-5491.2011.03246.x
@@ -193,8 +173,6 @@ If not achieving targets: double FRIII?
 [^13]: image source: BMJ Knowledge Centre
 
 ![](images/DKAresolution.png)
-
-Why not urine ketones?
 
 ## Finally
 
