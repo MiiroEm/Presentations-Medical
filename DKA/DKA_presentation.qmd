@@ -8,6 +8,9 @@ format:
     slide-number: c/t
     embed-resources: true
 editor: visual
+project:
+  type: website
+  output-dir: docs
 ---
 
 ## Case
